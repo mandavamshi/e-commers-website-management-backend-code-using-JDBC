@@ -1,8 +1,8 @@
 The provided Project represents a comprehensive e-commerce website management system built using Java and JDBC (Java Database Connectivity) to interact with a MySQL database. The system is designed to facilitate operations for both sellers and customers, allowing them to manage products, orders, and user accounts effectively.
 
-For sellers, the system includes functionalities such as logging in, signing up, adding products, updating product details, displaying products, and removing products from their inventory. The seller can perform various operations based on their login credentials, ensuring that only authorized users can manage their products. The product management features allow sellers to maintain their inventory efficiently, providing a seamless experience for both sellers and customers.
-
 ![Image](https://github.com/user-attachments/assets/e3ebc812-ed17-46a0-984a-587c5a493116)
+
+For sellers, the system includes functionalities such as logging in, signing up, adding products, updating product details, displaying products, and removing products from their inventory. The seller can perform various operations based on their login credentials, ensuring that only authorized users can manage their products. The product management features allow sellers to maintain their inventory efficiently, providing a seamless experience for both sellers and customers.
 
 On the customer side, the system allows users to sign up, log in, view available products, and place orders. Customers can browse through the products, check their orders, and manage their accounts. The system ensures that customers can only purchase products if they have sufficient balance, and it updates both customer and seller balances accordingly after a successful transaction.
 
